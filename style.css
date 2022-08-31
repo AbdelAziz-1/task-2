@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body {
+  height: 900px;
+  background-image: url(images/pexels-pew-nguyen-243971.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  color: #fff;
+  text-shadow: 10px 5px 10px white;
+  font-weight: bold !important;
+}
+
+.card {
+  background-color: rgba(14, 133, 238, 0.585) !important;
+  color: #fff;
+}
+.none {
+  display: none;
+}
